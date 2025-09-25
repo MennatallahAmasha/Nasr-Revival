@@ -16,7 +16,7 @@
 توثيق الرحلة بخطواتها، من الفكرة للسيناريو، ومن الورق للتنفيذ.
 
 - 📑 [اضغط هنا لعرض تقرير المشروع (PDF)](https://github.com/MennatallahAmasha/Nasr-Revival/blob/main/Nasr-Project-report.pdf)  
-- 🎬 [اضغط هنا لعرض الاسكريبت (PDF)](link-to-script)
+- 🎬 [اضغط هنا لعرض الاسكريبت (PDF)](https://github.com/MennatallahAmasha/Nasr-Revival/blob/main/Nasr-Project-report.pdf)
 
 ---
 📌 ملاحظاتك مهمة
