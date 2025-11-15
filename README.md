@@ -16,7 +16,7 @@
 توثيق الرحلة بخطواتها، من الفكرة للسيناريو، ومن الورق للتنفيذ.
 
 - 📑 [اضغط هنا لعرض وثيقة المشروع (PDF)](https://github.com/MennatallahAmasha/Nasr-Revival/blob/main/%D9%88%D8%AB%D9%8A%D9%82%D8%A9%20%D9%85%D8%B4%D8%B1%D9%88%D8%B9%20%D8%A7%D9%84%D8%AA%D8%AE%D8%B1%D8%AC.pdf)  
-- 📑 [اضغط هنا لعرض البرزنتيشن (PDF)](https://drive.google.com/drive/folders/1eOarv0mwkmOGoObvPPkpmABNssSUmal1?hl=ar) 
+- 📑 [اضغط هنا لعرض البرزنتيشن (PDF)](https://drive.google.com/file/d/14NrsBFaht6nwD1Y13bGG9WDsih7hAQXc/view?usp=sharing) 
  - 🎬 [اضغط هنا لعرض الفيديو ](https://drive.google.com/drive/folders/1bdLCDHqLi_G0ldXbbmbwe3V_7X8skc0G?hl=ar)
 
 ---
