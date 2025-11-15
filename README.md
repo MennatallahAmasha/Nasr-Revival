@@ -15,9 +15,37 @@
 
 توثيق الرحلة بخطواتها، من الفكرة للسيناريو، ومن الورق للتنفيذ.
 
-- 📑 [اضغط هنا لعرض تقرير المشروع (PDF)](https://github.com/MennatallahAmasha/Nasr-Revival/blob/main/Nasr-Project-report.pdf)  
-🎬 [اضغط هنا لعرض كادرات و اول جزء من الفيديو (PDF)](https://drive.google.com/drive/folders/1kxXquNbM85qARTuqZ9tqKBYfA2Z53YIZ) 
+- 📑 [اضغط هنا لعرض وثيقة المشروع (PDF)](https://github.com/MennatallahAmasha/Nasr-Revival/blob/main/Nasr-Project-report.pdf)  
+🎬 [اضغط هنا لعرض البرزنتيشن (PDF)](https://drive.google.com/drive/folders/1kxXquNbM85qARTuqZ9tqKBYfA2Z53YIZ)
+� [اضغط هنا لعرض الفيديو النهائي](https://drive.google.com/drive/folders/1kxXquNbM85qARTuqZ9tqKBYfA2Z53YIZ) 
 ---
+
+
+
+👥 فريق المشروع
+
+مشرف المشروع: م. ياسين حسن
+
+قائد الفريق (Team Leader): منّةالله محمد
+
+كتابة الفكرة والاسكريبت الأولي: إسلام عبدالعظيم
+
+تصوّر المشاهد وتخيل الكادرات (Storyboard): منّةالله محمد
+
+الرسم (Illustration): دعاء سعد، منّةالله محمد، مريم محسن
+
+التحريك (Animation): راندا عصام، دعاء سعد، إسلام عبدالعظيم
+
+المونتاج والتجميع (Editing & Assembly): دعاء سعد، راندا عصام
+
+الصوت — Voice Over & Sounds: راندا عصام
+
+الدعم البحثي (Research Support): أمينة مجدي
+
+شكر خاص: م. ياسين حسن
+---
+
+
 📌 ملاحظاتك مهمة
 
 الصفحة دي مش مجرد عرض… دي حدوتة مفتوحة، كل يوم نكتب فيها فصل جديد.
