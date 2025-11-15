@@ -16,8 +16,9 @@
 توثيق الرحلة بخطواتها، من الفكرة للسيناريو، ومن الورق للتنفيذ.
 
 - 📑 [اضغط هنا لعرض وثيقة المشروع (PDF)](https://github.com/MennatallahAmasha/Nasr-Revival/blob/main/Nasr-Project-report.pdf)  
-🎬 [اضغط هنا لعرض البرزنتيشن (PDF)](https://drive.google.com/drive/folders/1kxXquNbM85qARTuqZ9tqKBYfA2Z53YIZ)
-� [اضغط هنا لعرض الفيديو النهائي](https://drive.google.com/drive/folders/1kxXquNbM85qARTuqZ9tqKBYfA2Z53YIZ) 
+- 📑 [اضغط هنا لعرض البرزنتيشن (PDF)](https://github.com/MennatallahAmasha/Nasr-Revival/blob/main/Nasr-Project-report.pdf) 
+ - 🎬 [اضغط هنا لعرض الفيديو ](https://drive.google.com/drive/folders/1kxXquNbM85qARTuqZ9tqKBYfA2Z53YIZ)
+
 ---
 
 
@@ -40,9 +41,8 @@
 
 الصوت — Voice Over & Sounds: راندا عصام
 
-الدعم البحثي (Research Support): أمينة مجدي
+الدعم البحثي (Research Support): أمنية مجدي
 
-شكر خاص: م. ياسين حسن
 ---
 
 
